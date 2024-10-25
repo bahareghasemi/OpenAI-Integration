@@ -1,0 +1,21 @@
+{
+    "Probability3Months": "0.2",
+    "Probability6Months": "0.4",
+    "Probability9Months": "0.6",
+    "Probability9PlusMonths": "0.8",
+    "Suggestions": [
+      {"area": "Networking", "suggestion": "Start actively attending job fairs and professional events related to analytics to expand your network."},
+      {"area": "Technical Skills", "suggestion": "Focus on improving your skills in R, SQL, and Excel to make yourself more competitive."},
+      {"area": "Soft Skills", "suggestion": "Work on improving your communication and interpersonal skills to build better relationships with potential employers."},
+      {"area": "Resume", "suggestion": "Consider updating your resume to highlight your work experience in Canada related to data analytics and any projects in your portfolio."},
+      {"area": "Interview Preparation", "suggestion": "Practice for interviews by doing mock interviews with friends or mentors, and research common interview questions in the analytics field."}
+    ],
+    "Skills": [
+      {"skill": "Technical Skills", "level": "0.6"},
+      {"skill": "Soft Skills", "level": "0.4"},
+      {"skill": "Resume", "level": "0.5"},
+      {"skill": "Interview Skills", "level": "0.4"},
+      {"skill": "Knowledge", "level": "0.3"},
+      {"skill": "Networking", "level": "0.2"}
+    ]
+}
